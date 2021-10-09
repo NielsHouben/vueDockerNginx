@@ -1,0 +1,10 @@
+{
+  "name": "vuedockernginx",
+  "version": "1.0.0",
+  "description": "vue scss docker nginx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niels Houben",
+  "license": "ISC"
+}
